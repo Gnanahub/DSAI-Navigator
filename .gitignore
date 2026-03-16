@@ -1,3 +1,11 @@
+__pycache__/
+.env
+*.log
+models/
+data/index/
+venv/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
