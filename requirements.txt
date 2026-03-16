@@ -1,1 +1,14 @@
-
+ollama
+llama-index
+chromadb
+sentence-transformers
+speechrecognition
+pyaudio
+opencv-python
+pytesseract
+pillow
+mss
+pyautogui
+keyboard
+imageio
+numpy
