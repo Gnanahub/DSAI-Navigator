@@ -12,3 +12,4 @@ pyautogui
 keyboard
 imageio
 numpy
+python 
